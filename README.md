@@ -1,2 +1,1 @@
-# blackjack
-TalentSprint_Web_Development
+# Techwise Blackjack   
